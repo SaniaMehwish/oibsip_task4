@@ -1,4 +1,4 @@
-# Email Spam Detector
+# Email Spam Detector with Machine Learning
 
 ## INTRODUCTION:
 Email spam, or junk mail, is a persistent issue affecting users worldwide. Spam emails often contain cryptic messages, scams, or phishing content, posing risks to individuals and organizations. To address this problem, this project aims to build an email spam detector using Python and machine learning techniques.
